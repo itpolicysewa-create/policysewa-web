@@ -2,7 +2,7 @@
   "name": "policy-sewa-static",
   "private": true,
   "scripts": {
-    "start": "npx serve@latest"
+    "start": "serve -s out -l 3000"
   },
   "dependencies": {
     "serve": "^14.2.4"
